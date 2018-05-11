@@ -1,9 +1,9 @@
 # Site settings
 title: OBORCHAIN | Blockchain Solutions for One Belt & One Road Menber Countries
 description: "Blockchain Solutions for One Belt & One Road Menber Countries"
-url: ""
+url: "/blog"
 # Build settings
-baseurl: ""
+baseurl: "https://oborchain.github.io"
 markdown: kramdown
 source: .
 destination: ./_site
